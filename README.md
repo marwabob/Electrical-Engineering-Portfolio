@@ -169,9 +169,6 @@ Battery (Ah) = Energy / (Voltage × DoD)
 
 ## Results Visualization
 
-<p align="center">
-  <img src="pvgis-result.png" width="700"/>
-</p>
 
 ---
 
