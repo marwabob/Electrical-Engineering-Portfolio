@@ -64,8 +64,16 @@ This project presents a **complete engineering design** of an off-grid solar PV 
 
 ##  Solar Resource (Al Ain)
 
--  Peak Sun Hours (PSH): **4.65 h/day**  
--  System Efficiency: **65%**
+- Peak Sun Hours (PSH): **4.65 h/day**  
+- System Efficiency: **65%**
+
+<p align="center">
+  <img src="Radiation data.png" width="700"/>
+</p>
+
+<p align="center">
+  <i>Figure: Solar radiation profile for Al Ain (UAE)</i>
+</p>
 
 ---
 
